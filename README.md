@@ -4,7 +4,8 @@
 
 #### 📝 Java é uma linguagem de programação amplamente utilizada na criação de diversos tipos de programas. Ela é conhecida por sua flexibilidade e capacidade de adaptar-se a diferentes finalidades, desde aplicativos simples em dispositivos móveis até sistemas complexos usados por empresas. Com Java, os desenvolvedores podem escrever código uma vez e executá-lo em diferentes plataformas, o que facilita a sua portabilidade. Além disso, a linguagem oferece recursos avançados de segurança, o que contribui para a confiabilidade dos programas desenvolvidos com ela.
 
- ![Modelo de Compilação em JAVA](https://arquivo.devmedia.com.br/artigos/Allan_Romanato/JavaVirtualMachine/JavaVirtualMachine2.jpg)
+ <img src="https://arquivo.devmedia.com.br/artigos/Allan_Romanato/JavaVirtualMachine/JavaVirtualMachine2.jpg" alt="Modelo de Compilação em JAVA" width="350" height="250">
+
 
 ---
 
